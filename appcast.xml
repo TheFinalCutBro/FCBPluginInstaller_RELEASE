@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FCB’s Plugin Installer Release Notes</title>
+    <link>https://www.dropbox.com/scl/fi/3xavqixrrcwo8zirbfkb7/FCBPLUGININSTALLER_RELEASE.zip?rlkey=y7cbkbsoo3i8axmhy2a71tg6m&dl=1</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:releaseNotesLink>https://yourdomain.com/release-notes/1.0.0.html</sparkle:releaseNotesLink>
+      <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://www.dropbox.com/scl/fi/3xavqixrrcwo8zirbfkb7/FCBPLUGININSTALLER_RELEASE.zip?rlkey=y7cbkbsoo3i8axmhy2a71tg6m&dl=1"
+        sparkle:version="10000"
+        length="20971520"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
